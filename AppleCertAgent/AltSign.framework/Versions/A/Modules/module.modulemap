@@ -1,0 +1,6 @@
+framework module AltSign {
+  umbrella header "AltSign.h"
+
+  export *
+  module * { export * }
+}
